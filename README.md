@@ -1,2 +1,2 @@
 # angularBasics
-Demonstrating bbasic functions of Angular
+Demonstrating basic functions of Angular
